@@ -12,8 +12,8 @@ An analytical study of retail data to identify performance trends and customer b
 
 ### Academic Excellence
 * Bachelor of Pharmacy CGPA: 8.0  
-* ​PUC (Science): 98.6%  
-​* SSLC: 97.44%
+* ​PUC (Science): 98.6%
+* SSLC: 97.44%
 
 ### Files Included
 * `Completed_project.ipynb`: Python source code and data logic.
